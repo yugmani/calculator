@@ -3,7 +3,7 @@
 
 ## File
 
-* [`jquery-calculator-starter`](Unsolved/jquery-calculator.html)
+* [`jquery-calculator-starter`](index.html)
 
 ## Instructions
 
